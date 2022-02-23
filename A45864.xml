@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Indulgence to tender consciences shewn to be most reasonable and Christian by a minister of the Church of England.</title>
+            <author>Minister of the Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45864</idno>
+            <idno type="STC">Wing I157</idno>
+            <idno type="STC">ESTC R36015</idno>
+            <idno type="EEBO-CITATION">15586532</idno>
+            <idno type="OCLC">ocm 15586532</idno>
+            <idno type="VID">103986</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103986)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1150:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Indulgence to tender consciences shewn to be most reasonable and Christian by a minister of the Church of England.</title>
+                  <author>Minister of the Church of England.</author>
+               </titleStmt>
+               <extent>[2], 6, 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance."</note>
+                  <note>Includes "Remarkes upon a pamphlet stiled, A letter to a dissenter &amp;c., in another letter to the same dissenter," signed by T.W.: p. 1-12 (second count).</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Halifax, George Savile, --  Marquis of, 1633-1695. --  Letter to a dissenter.</term>
+               <term>Religious tolerance --  England.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103986:1" rendition="simple:additions"/>
+            <p>INDULGENCE TO <hi>Tender Conſciences</hi> Shewn to be MOST REASONABLE AND CHRISTIAN.</p>
+            <p>By a Miniſter of the Church of England.</p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Moſt Excellent M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſty, for His Houſhold and Chappel. 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:103986:2"/>
+            <pb n="1" facs="tcp:103986:2"/>
+            <head>Indulgence to Tender Conſcien<g ref="char:EOLhyphen"/>ces, ſhewn to be moſt Reaſon<g ref="char:EOLhyphen"/>able and Chriſtian.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Preſume your Deſign in deſiring my Thoughts in the Caſe of an <hi>Indulgence,</hi> Comprehenſive of all ſuch, how<g ref="char:EOLhyphen"/>ever otherwiſe differing in their Sentiments in Reli<g ref="char:EOLhyphen"/>gion, yet being Peaceable and Pious, for their Reſcue from the rigorous Demands of Penal Laws, is not ſo much to know my Opinion (it being inconſiſtent with the Modeſty and Submiſſion of a Subject, to Dogmatize in a Caſe wherein His Gracious Majeſty hath been pleas'd to give His Pious Reſolution) as to underſtand the Arguments which have influenc'd me, and poſſibly many others, into a tender<g ref="char:EOLhyphen"/>neſs for Men in that Caſe; which briefly are,
+<list>
+                  <item>I. The Tendency that ſuch <hi>Indulgence</hi> hath, and the Ser<g ref="char:EOLhyphen"/>vice that it will effectually do, to the Conſervation of the National Peace. Upon which it is, that thoſe Princes and States that have Experienc'd the Deficiency of other and contrary Methods, have betaken themſelves to this, and have found, that where it hath been Candidly Granted, it rarely Diſturb'd, and always Preſerv'd the Public Peace. This is believ'd to be the Support of the Governments in <hi>Poland</hi> and <hi>Holland;</hi> the laſt of which, by once departing from this Method, and by Exerciſing Rigor upon one Diſſenting Party, inflam'd their State into ſuch a Paroxiſm, as threat<g ref="char:EOLhyphen"/>ned its utter Ruin: Whereas an equal admittance of dif<g ref="char:EOLhyphen"/>fering Parties into the Graces and Favors of the Govern<g ref="char:EOLhyphen"/>ment, will Command an univerſal Calm and Compoſure in the Minds of all; which in neceſſary Conſequence will</item>
+                  <item>II. Give great Advantage and Encouragement to Trade, which muſt unavoidably ſuffer Decay, by making Men Sullen,
+<pb n="2" facs="tcp:103986:3"/>Careleſs, or Deſperate, in denying them the Liberty of their Conſciences. it can't but diſeaſe the Minds of Men, to ſee others advanc'd to Dignities and Preferments, of which they muſt deſpair, not becauſe they are leſs capable or worthy, but becauſe they bear a good Conſcience, and can't for any Temporal Advantage hazard their Eternal Peace. Thoſe Laws that render Subjects incapable of Offices and Places of Profit, beget in their Minds an implacable Averſi<g ref="char:EOLhyphen"/>on towards the Government. And 'tis idle to think, that when they have opportunity, they will not make Returns pro<g ref="char:EOLhyphen"/>portionable to the Severities they have been Exercis'd with, and from that Self-love which is eſſential to Human Nature, will not Conſult the Ruin of that Government, which ex<g ref="char:EOLhyphen"/>cludes them from the Comforts and Accommodations of Life, and in ſome Caſes, from a poſſibility of getting Bread. And on the other hand 'tis moſt obvious, that a Princes in<g ref="char:EOLhyphen"/>dulgent owning all his Subjects, and taking them under the Covert and Protection of his Royal Wing, will oblige their Agreement in a United Strength, to Support the Govern<g ref="char:EOLhyphen"/>ment againſt all Adverſaries whatſoever. To theſe may be added</item>
+                  <item>III. That the rigorous Execution of Penal Laws is far<g ref="char:EOLhyphen"/>theſt from effecting the Allay of Animoſities, and the Healing of Diviſions; for Men will not be frighted nor aw'd out of their Opinions: Inſtead of this, it rather inflames the Wounds, and renders the Breaches utterly incurable. I can't think, that upon a bold and univerſal Challenge, one Inſtance can be produc'd of one Convert that hath been made by theſe Methods.</item>
+               </list>
+            </p>
+            <p>Notwithſtanding all this, and much more muſt be acknow<g ref="char:EOLhyphen"/>ledg'd true by ſuch as have not loſt their Memories, and have made any Obſervation of the State of Affairs in theſe late Years, in our Engliſh World; yet I am aware, that if ſuch Indulgence can be charg'd with Iniquity, or cenſur'd as doing or permitting of Evil that Good may come of it; that upon that Maxim of <hi>Fiat Juſtitia,</hi> &amp;c. the whole ſtrength of this Argument will be enervated. 'Tis therefore a juſt and no<g ref="char:EOLhyphen"/>ceſſary Service to this Caſe, to take off all Pretences to ſuch an Imputation; which may readily be done, Firſt, by con<g ref="char:EOLhyphen"/>ſidering
+<pb n="3" facs="tcp:103986:3"/>the Practice of the Jewiſh and of the Chriſtian Church; and Secondly, by applying our ſelves to the proper Meaſures of Good and Evil. 'Tis evident, that in the Jewiſh Oeconomy the <hi>Sadducees,</hi> notwithſtanding their groſs Opi<g ref="char:EOLhyphen"/>nions, and the bad Conſequences of them, were not excluded the Offices of Truſt and Dignity in their Church and State;<note place="margin">
+                  <hi>Acts</hi> 5.17.</note> And we do not find that our Bleſſed Saviour charg'd ſuch ex<g ref="char:EOLhyphen"/>tending their Favors to them as a Crime; and in dealing with them concerning their bad Opinions, doth not Proſecute them with Severities and hard Words, but calmly refutes their Errors, as being founded on their ignorance of the Scriptures and the Power of God. This ſhould be Inſtru<g ref="char:EOLhyphen"/>ction to us, to treat one another with Temper and Modera<g ref="char:EOLhyphen"/>tion.</p>
+            <p>'Tis evident that Chriſtian Churches both at Home and Abroad, decline the giving of any peremptory Declaration in the <hi>Dort</hi> Controverſies, but allow their Preferments to either of thoſe contending Parties; by which they are ſo far from Deſtroying, that they Support and Adorn their Churches. I find in a late Letter, written by a Learned Pen from <hi>Zurich,</hi> that which is ſtyl'd a ſad Inſtance of Anger and Heat among Divines in Matters of ſmall Conſequence, upon a middle Way that <hi>Amirald, Daille,</hi> &amp;c. took in thoſe Mat<g ref="char:EOLhyphen"/>ters that were Diſputed in <hi>Holland;</hi> upon which thoſe that adher'd ſtrictly to the oppoſit Doctrin were inflam'd, and the Contention grew to that height, that almoſt the whole Town came to be concern'd: In which the Author of the Letter ſaith, the Magiſtrates had acted wiſely, to have En<g ref="char:EOLhyphen"/>joyn'd Silence to both Parties; for theſe are Speculations ſo little certain, and ſo little eſſential to Religion, that a di<g ref="char:EOLhyphen"/>verſity of Opinions ought not to be made the occaſion of Debate and Faction. But ſome Divines in <hi>Switzerland</hi> ad<g ref="char:EOLhyphen"/>hering to the old receiv'd Doctrins, drew up ſome Articles, in which the Opinions of their Opponents were not only Condemn'd, but made thoſe their Articles not only the Stan<g ref="char:EOLhyphen"/>dard, againſt which no Man, without being Cenſur'd, might have Taught, but they oblig'd all that ſhould be admitted into the Miniſtry or Profeſſor's Chair, to Sign <hi>Sic Sentio;</hi> which they Setled, not only at <hi>Bern</hi> and <hi>Zurich,</hi> but by their Authority was carry'd to <hi>Geneva.</hi>
+            </p>
+            <pb n="4" facs="tcp:103986:4"/>
+            <p>Thus they were not contented to make only a Regulation in thoſe Matters, but they would needs, according to a Maxim that hath been ſo often fatal to the Church, enter into Peo<g ref="char:EOLhyphen"/>ples Conſciences, and either ſhut out young Men from Em<g ref="char:EOLhyphen"/>ployments, or impoſe a Teſt upon them, which perhaps ſome have Sign'd not without ſtruglings in their Conſcien<g ref="char:EOLhyphen"/>ces. The Author renders thoſe that ſet on Teſts, to be Per<g ref="char:EOLhyphen"/>ſons of extraordinary Worth, and that he believes in it they acted out of a ſincere Zeal, but wiſhes they had larger and freer Souls.</p>
+            <p>Thus we ſee, that in point of Prudence all Churches do and muſt admit Diſſenters, and are not in it Cenſur'd as doing of Evil.</p>
+            <p>In Fence againſt ſuch an Imputation, let us apply our ſelves to the proper Meaſures of Good and Evil, which cer<g ref="char:EOLhyphen"/>tainly muſt be taken from the Example and Precepts of our Bleſſed Saviour.</p>
+            <p n="1">1. His Example in the Caſe between his Diſciples and the <hi>Samaritans.</hi>
+               <note place="margin">
+                  <hi>Luc.</hi> 9.55.</note> They upon that Feud that was between them and the Jews, would not receive our Saviour, <hi>becauſe his Face was as tho' he would go to Jeruſalem.</hi> Upon this their unwor<g ref="char:EOLhyphen"/>thy refuſal of their Lord, the Diſciples mov'd <hi>that Fire might be call'd from Heaven, to conſume them, as Elias did. But Jeſus turn'd to them, and rebuked them, ſaying, Ye know not what manner of ſpirits ye are of.</hi> A true Chriſtian Spirit, ſuch as becomes a Diſciple of Chriſt, is full of Meekneſs, Charity, Condeſcention, and Tenderneſs. He farther tells them, That <hi>he did not come to deſtroy mens Lives, but to ſave.</hi> A fiery, perſecuting, and deſtroying Temper, is forein to the Tem<g ref="char:EOLhyphen"/>per of Chriſt and Chriſtianity.</p>
+            <p n="2">2. As to the Precepts of Chriſt and Rules of Chriſtianity, <hi>Id agit totum Evangelium,</hi> it is the great Deſign of the Goſpel to recommend Love, Charity, and Meekneſs, to make the Profeſſors of it Pure and Peaceable. <hi>Have Salt in your ſelves, and Peace one with another. This is my Commandment, that ye love one another.</hi> 'Tis the Characteriſtical Note of his Di<g ref="char:EOLhyphen"/>ſciples, <hi>By this ſhall all Men know that ye love one another.</hi> And the Apoſtles upon all occaſions preſs this Temper; <hi>Fol<g ref="char:EOLhyphen"/>low after Peace and Holineſs, without which no Man ſhall ſee
+<pb n="5" facs="tcp:103986:4"/>God. Hold the unity of the Spirit in the bond of Peace. Follow after the things that make for Peace, and wherewith ye may edifie one another.</hi> This is preferr'd to Sacrifice and Burnt-offering.<note place="margin">
+                  <hi>Gal.</hi> 13.14.</note> We are commanded to <hi>Serve one another in love. For all the Law is fulfill'd in this one word, You ſhall love your Neighbor as your ſelf; but if ye bite and devour one another, take heed that ye be not deſtroyed one of another.</hi> That if we (as we ought) do take our Meaſures, from the holy Example and Divine Pre<g ref="char:EOLhyphen"/>cepts of our Bleſſed Saviour, they will be found under great Miſtake, that aſſume and uſurp to themſelves the beſt Name, and moſt zealous of Chriſtians, that are Strangers to theſe Vertues of Meekneſs, Peaceableneſs, and Univerſal Charity, that conſtitute a Chriſtian Temper; they will appear miſera<g ref="char:EOLhyphen"/>ble Perverters of the Chriſtian Religion, by making that to be the fatal Incendiary of Hatred and Contention, which was deſign'd the moſt inviolable Band of Unity and Peace; and in rendring that the Inſtrument to Confound and Embroil the World, which is deſign'd the moſt proper Oeconomy to Regulate and Calm it. Such, amidſt their Pretences to a ſingular Eminency in Chriſtianity, will appear unworthy the Name of Chriſtian, that account thoſe Graces of Love, Meek<g ref="char:EOLhyphen"/>neſs, and Charity, as dull Earthy and Phlegmatick Qualities, who are altogether for the Fire and Cloven Tongues, but diſclaim the Spirit as deſcending in the Shape of a Dove.</p>
+            <p>'Tis evident, that the greateſt part of that Law which de<g ref="char:EOLhyphen"/>nominates Men truly Chriſtians, is made up of Precepts of Meekneſs, Long-ſuffering, and Condeſcenſion; therefore that Zeal muſt be prepoſterous, that pretends to obey the Goſpel in violating its Rules. 'Tis this that hath brought our Religion into that unhappy State in which it lies; that that Zeal which ſhould be its Life, is become its Diſeaſe, and like a Hectic Body, is conſuming its ſelf by its Feveriſh Heats. Whereas if Men would ſoberly weigh how their Temper and Deportment agrees with the Rules of Chriſtianity, and would not too confidently purſue every incitation that carries a ſhew of Piety, they would find that their angry and paſ<g ref="char:EOLhyphen"/>ſionate Heats are not that true Chriſtian Zeal that ought to be cheriſh'd, but would be convinc'd, that its venerable Name is too oft miſapply'd to things of a diverſe, ſometimes of a
+<pb n="6" facs="tcp:103986:5"/>contrary nature; That Meekneſs and Charity are no Luke<g ref="char:EOLhyphen"/>warmneſs, that we may be Peaceable and Zealous too. Let us, who glory in the Name of Chriſtian, ſeriouſly conſider our great Obligations to Love and mutual Condeſcenſion, to live as Brethren amicably together. We are Children of the ſame Father, Members of that one Body whereof Chriſt is the Head, Heirs of the ſame Grace; We have one Faith, one Baptiſm, one Mediator; The God whom we Serve is the God of Peace, Chriſt our Head is the Prince of Peace, the Goſpel we profeſs is the Goſpel of Peace: Oh that therefore this Brotherly Peace and Amity might obtain its due Place and Regency in our Hearts and Lives, that all Anger and A<g ref="char:EOLhyphen"/>nimoſity may ſurceaſe; that we may no longer bite and de<g ref="char:EOLhyphen"/>vour one another, but ſerve one another in Love; which if it were not to be deſpair'd (at this Juncture, when His Gra<g ref="char:EOLhyphen"/>cious Majeſty vouchſafes to receive all His peaceable Sub<g ref="char:EOLhyphen"/>jects under his Royal Wing, and imparts his Graces and Favors without diſtinction,) that all invidious and diſtin<g ref="char:EOLhyphen"/>ctive Titles may be abandon'd and exploded the World, that the Divine Name of Chriſtian deſcribe all the Mem<g ref="char:EOLhyphen"/>bers of the Body of Chriſt, as once it did at <hi>Antioch,</hi> Acts 11.26. and that all that are Baptis'd into that Sacred Name, may be recover'd into that Love and Amity which obtain'd in the Primitive State of Chriſtianity; then the Church was ediſi'd, and there were daily added to it ſuch as were appoint<g ref="char:EOLhyphen"/>ed to Salvation. This would make the Church like <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> built on a City that is compact within it ſelf; it would be adorn'd with Beauty to allure Strangers, and endu'd with Strength to confound its Enemies: Our living thus together would ſecure us in the Preſence and Benediction of the God of Love and Peace, which ought to be the Prayer of all good Men, and is the ardent Deſire, and ſincere Endeavor of</p>
+            <closer>
+               <salute>SIR,</salute>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="1" facs="tcp:103986:5" rendition="simple:additions"/>
+            <head>REMARKES UPON A PAMPHLET Stiled, A Letter to a <hi>Diſſenter, &amp;c.</hi>
+            </head>
+            <head type="sub">In another <hi>Letter</hi> to the ſame <hi>Diſſenter.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AN highly applauded <hi>Pamphlet</hi> fell into my hand, at that inſtant when I was ſealing my laſt Letter to you, relating to the <hi>Penal Laws and Teſts,</hi> I then purpoſed to tell you my thoughts thereof in a Poſtſcript, but being diverted till the Poſt was gone, and yours of the 8th Inſtant mentioning the thing, this comes to tell you, that I have ſlightly run it over, and do perceive the <hi>Wordy Author</hi> deſigns thereby to allure the <hi>Diſſenters</hi> to a Contempt and Rejection of the <hi>Kings</hi> benigne Purpoſe to them. Its Title, and another Circumſtance, <hi>your early notice of it,</hi> inclines me to conclude that it was wrote to you; whether ſo or not; I ſhall briefly Re<g ref="char:EOLhyphen"/>marque upon it. The <hi>great Man</hi> ſets out floridly; As a <hi>Modiſh</hi> Perſon, he accoſts the poor <hi>Diſſenter</hi> by way of <hi>Addreſs.</hi> The Courtſhip ſeems to me ſudden and ſurprizing, and I ſuſpect the Deſign, for I take it to be ſomething <hi>Judas-like,</hi> for one of the <hi>Epiſtlers Figure</hi> and <hi>Spirit,</hi> to approach a <hi>Mechanick,</hi> and a <hi>Schiſmatick</hi> to boot, in the humble way of <hi>Hat and Knee.</hi>
+            </p>
+            <p>But he doubts not of kind reception, provided that his
+<pb n="2" facs="tcp:103986:6"/>
+               <hi>Diſſenter</hi> will take his Word, when he affirms, that he is neither <hi>a Coward, nor a deſigning or freetfull Man.</hi> I wiſh he had put his Name to his Letter, becauſe ſome will have it, that the <hi>Author</hi> is a Perſon ſo tranſcendently <hi>Haughty</hi> and <hi>Ambi<g ref="char:EOLhyphen"/>tious,</hi> that he little regards what, or whom he Sacrifices, may he but become <hi>head of a party.</hi> But,</p>
+            <p>If he gains not the Point, by the glorious <hi>Character</hi> which he aſcribes to himſelf, his <hi>reaſons</hi> muſt undoubtedly (as he conceits) win him the Day; his <hi>friendſhip</hi> commanding you to allow them to paſs Muſter, for he pledges his Word, that <hi>the time of day,</hi> diſpoſes him to <hi>Charity,</hi> therefore in this nick of time, you are neither to call into Queſtion his Wiſdom, Honeſty, or Affection; <hi>a moſt lucky period.</hi>
+            </p>
+            <p>In confidence that I have at leaſt an equal title to your <hi>Friendſhip,</hi> his being but newly contracted, and ours what Storms hath tryed; I ſhall, in my old plain-dealing way with you, obſerve, that the <hi>Gentlemans</hi> ſtock both of <hi>Charity and Truth</hi> is very ſuddenly exhauſted, for he inſtantly charges to his <hi>Diſſenters account</hi> both the <hi>Excluſion and Rebellion:</hi> Were the Fact ſo, and the Brat laid at the right Door; Why ſhould this high <hi>Pretender to Loyalty,</hi> check in any <hi>Delinquent,</hi> a graet<g ref="char:EOLhyphen"/>ful Reſentment of his Majeſties <hi>Forgiveneſs?</hi> But,</p>
+            <p>Should the <hi>Fanatick</hi> (to avoid wrangling with the <hi>Church of England</hi>) agree to make an equal Partition with her, of the mentioned Crimes, and their deſerved ſhame? The half would far exceed his due ſhare: Then will it be conſiſtent, with <hi>her breeding, and ſuperlative <g ref="char:V">Ʋ</g>ertue,</hi> to yeild <hi>him</hi> the ho<g ref="char:EOLhyphen"/>nour of all the <hi>Repentance and Confeſſion.</hi>
+            </p>
+            <p>In the next place your <hi>Friend craves audience,</hi> and paſſing the Complement, that he yet <hi>hopes you in your Wits, he bids you be <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re of New Friends</hi> (a very pertinent caution, your Friend<g ref="char:EOLhyphen"/>ſhip with him being yet in the bloſſom) and</p>
+            <p>He beſpeakes you to be a <hi>prudent Chriſtian,</hi> and not to <hi>hazard the publick Safety, by the deſire of Eaſe or Revenge.</hi> Good again.</p>
+            <pb n="3" facs="tcp:103986:6"/>
+            <p>To enforce the firſt <hi>(viz.)</hi> that you are to <hi>ſuſpect new Friends,</hi> he inſinuates, that you are not to be carried over, <hi>by ſmooth Language now put on to engage you,</hi> by the way, the expreſſion intending to inſinuate <hi>a cheating Deſign,</hi> had been as well <hi>worded</hi> (Words (with abundance of ſpite) being mainly what fills the Paper now before me) had it ſaid, putting off of ſmooth Language, or making what is Gilded over, to paſs as Current Coyn; but whether off or on be beſt, in this place; in the next, the <hi>Gentleman</hi> doffing his Clothes, perſonates an enraged ſlighted <hi>Miſtreſs</hi> (or <hi>Rival</hi>) and tells you, that <hi>ſhe</hi> (for to follow our Amorous Author, we muſt for a time change the Sex) had the <hi>the firſt offer,</hi> and you have only the coy Ladies leavings. It is then evident (and ſhall be anon further made out) that <hi>ſhe held a parly with your new Lover,</hi> ay, but if you will credit her, ſhe ſaw his <hi>Deformity,</hi> and therefore <hi>rejected</hi> him. I doubt you will get little by en<g ref="char:EOLhyphen"/>quiring of the <hi>Sqeamiſh Dame,</hi> whether punctillios of Honour, hopes of higher Terms, or the Devils Pride and Envy, did not occaſion her raſh refuſal, and whether ſhe doth not too late repent it? for Queſtions of this kind do rarely receive di<g ref="char:EOLhyphen"/>rect and honeſt Anſwers. I ſhall therefore according to my wonted freedom, exhort you to <hi>ſtand upon your Guard,</hi> that ſhe may not play you a trick, and then reproach you. He now (for the Aggreſſor in Love, muſt be concluded to wear Breeches) <hi>makes court to you,</hi> examine carefully, I beſeech you, whether you are <hi>his Choice, and not his Refuge,</hi> if the laſt, it will be your wiſdom to make ſure terms with him, and allowing the <hi>Gentleman</hi> to mean as he would be taken, you have his own advice, that <hi>you are not to yeild over-haſtily to new Friends</hi> upon their beſpeaking you fairly. He tells you, that <hi>you cannot reaſonably flatter your ſelf that there is</hi> (with your Lo<g ref="char:EOLhyphen"/>ver) <hi>any inclination to you:</hi> I incline to think as he doth, if he takes it, that beding together is to be the next thing in the caſe, (then 'tis probable that no Love is loſt) but I have
+<pb n="4" facs="tcp:103986:7"/>heard, that a Perſon diſappointed in his firſt Amour, is ever after cold, and indifferent, in Affection; and therefore ſince <hi>the Church of England</hi> affirms, that ſhe <hi>refuſed to ſtrike up a Bargain,</hi> I will believe, that <hi>a chast Diſſenter,</hi> may live in the ſame Kingdom, with the <hi>Romaniſt,</hi> without the hazard of a <hi>Rape.</hi>
+            </p>
+            <p>
+               <hi>They</hi> (the Papiſts, ſaith the Letter) <hi>never pretended to allow you any Quarter, but to uſher in Liberty to themſelves, under that ſhelter.</hi> Well then, you are out of danger of being <hi>put to the Sword,</hi> you may have <hi>Quarter,</hi> a Grace refuſed you by <hi>the Church of England.</hi> Ay, may you ſay, but what are the terms? why, ſuch as are very equall, and highly reaſonable, both Parties have been long and ſorely galled by the <hi>Canon of the Church of England.</hi> The <hi>Papiſts</hi> will now help to <hi>diſmount them,</hi> and they call for your aid; I pray what harm in all this, and why ſo much noiſe againſt it?</p>
+            <p>And it proceeds; <hi>Nay, at this very hour they can hardly for<g ref="char:EOLhyphen"/>bear in the he<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ht of their Courtſhip, to let ſall hard words of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou, ſo little is nature to be reſtrained.</hi> The Gentleman may well ſay,
+<q>
+                  <l>Pudet hæc opprobria nobis,</l>
+                  <l>Et dici potuiſſe, &amp; non potuiſſe refelli.</l>
+               </q>
+            </p>
+            <p>You and I do know, <hi>at this very hour,</hi> and ſo doth he, the names of <hi>dignified Sons of the Church of</hi> England, <hi>who declare, that the Devil will have both Papiſt and Diſſenter.</hi> This I'm ſure is none of the ſofteſt Language.</p>
+            <p>But you are told in the next Paragraph, <hi>That Liberty and Infallibility are the two moſt contrary things in the World.</hi> I af<g ref="char:EOLhyphen"/>firm, that it is beyond contradiction true, that our <hi>errable Church of England</hi> has run to the Arguments of that Church, which claims <hi>Infallibility;</hi> to juſtifie her ſelf, in her attempts, to extirpate Diſſenters; and <hi>(right or wrong)</hi> they had been Ruined, had not the preſent <hi>Kings</hi> Clemency reſcued them.</p>
+            <pb n="5" facs="tcp:103986:7"/>
+            <p>But <hi>The Principles of the Roman Church allow not Liberty to Hereticks.</hi> Nor do thoſe of <hi>the Engliſh Church to Schiſmaticks;</hi> ſuch ſhe eſteems her <hi>Diſſenters,</hi> and as ſuch, ſhe (when in Power) conſtantly treats, and labours to deſtroy them.</p>
+            <p>If ſo, the argument of <hi>preſent hugging, in order to the better ſqueezing hereafter,</hi> vaniſhes; and <hi>the ſeting up Bills, and of<g ref="char:EOLhyphen"/>fering Plaiſters for tender Conſciences;</hi> may deſerve as great re<g ref="char:EOLhyphen"/>gard from <hi>the Romiſh,</hi> as from <hi>the Lambeth Church,</hi> and in our preſent conjuncture much more.</p>
+            <p>The Gentleman goes on to tell you. <hi>The other day you were Sons of Belial, now you are Angels of Light.</hi> And he aſſerts, <hi>that to come ſo quick, from one extream to another, is ſuch unnatural a motion,</hi> that you are to look to your ſelf. Pray do ſo, and in doing it, remember, that <hi>in the word of a King there is Power;</hi> and that <hi>the Church of England,</hi> which now hath none, to hurt or ſave (<hi>till</hi> her preſent exigence extorted a Complement) ſtiled you <hi>a Child of Darkneſs.</hi>
+            </p>
+            <p>In the next place <hi>the Men of Taunton and Tiverton</hi> (for ſound or Jingle ſake, no doubt) are hook'd in, and their <hi>Loy<g ref="char:EOLhyphen"/>alty</hi> ridiculed: notwithſtanding in this our <hi>Church-Mans</hi> opini<g ref="char:EOLhyphen"/>on, that renders them vile, it would not offend a good Subject, to ſee others imitate them, and tho <hi>H.</hi> (at this day) <hi>non eſt litera;</hi> methinks <hi>Hall</hi> and <hi>Hallifax</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o a Northern-man, ſhould chime every whit as well as <hi>T.</hi> and <hi>T.</hi> of the <hi>Weſt;</hi> where<g ref="char:EOLhyphen"/>fore, pray prevail with your new Friend (who will not break with you in trifles) to write a ſecond Letter North<g ref="char:EOLhyphen"/>ward, and if your Intrigue with him continues till the re<g ref="char:EOLhyphen"/>turn of the general Poſt, <hi>(for we are admoni<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed to have a very tender regard to Horſes)</hi> I doubt not but he will be obliged to tell you that the worthy Inhabitants of thoſe Places, have the courage to <hi>vre Lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> with any of his Majeſties Subjects. If I miſtake them, <hi>Libera me.</hi>
+            </p>
+            <p>Now our <hi>Valiant</hi> author <hi>(the Weſt being vanquiſhed)</hi> points <hi>Southward,</hi> and picks a Quarrel with the <hi>poor Quakers.</hi> This
+<pb n="6" facs="tcp:103986:8"/>may well ſurpriſe you, I'm ſure it did me at firſt ſight; for you and I believe they will not draw the <hi>Sword,</hi> much leſs encounter a <hi>Goliah;</hi> therefore you may ſay, certainly no fear of them to <hi>a fearleſs Man;</hi> ay, but the <hi>Gentleman</hi> now handling them, reſolves to ſpoil an <hi>Engliſh Proverb,</hi> and to his <hi>courage</hi> would monopolize <hi>Wit,</hi> and the <hi>Quaker</hi> he ſays has learn'd to ſpeak <hi>ſence,</hi> and which is worſe, he becomes <hi>mannerly,</hi> to ſuch a degree, that this your new Friend <hi>(who grumbles for a place at Court)</hi> begins to ſuſpect himſelf in ſome danger of being poſt-poſed; for the <hi>Quaker</hi> having given the King <hi>decent thanks</hi> for his <hi>Protection,</hi> may, for ought he knows, become <hi>Courtier. (Sir)</hi> you are now to believe the Gentleman has ſpit his Poyſon, for he tells you, that <hi>no ſharpneſs is to be mingled where healing only is intended;</hi> and he promiſes hereafter <hi>to ſay nothing to expoſe particular M n, how ſtrong ſoever the temptation may be, or how clear the proofs to make it out;</hi> he might as well have ſaid, Now <hi>Gentlemen Diſſenters</hi> look to your hits, we have been <hi>Complicens,</hi> provoke me not to detect our <hi>Rogueries; pleaſe me or all ſhall out,</hi> (but begging his Pardon) he ſhall ſpeak for himſelf, and ſee what follows; 'tis in friendſhip this; <hi>for Arguments ſake,</hi> and to promote the propoſed <hi>healing,</hi> the honeſt well-meaning Man, <hi>(not willing to tell tales)</hi> bearly whiſpers you, <hi>poor deluded Diſſenter,</hi> in the Ear; that to his knowledg there is Death in the Pot, <hi>your Miniſter is a Knave, you are Sold, the Money is Paid, and you are moſt certainly Betrayed.</hi>
+            </p>
+            <p>Is not this ſaid like a <hi>Church of England Worthy, not tied or conſined to this or that ſubdiviſion of Proteſtants,</hi> like one eſtran<g ref="char:EOLhyphen"/>ged from <hi>ſharpneſs,</hi> and who affects and intends <hi>healing?</hi> Can Hell it ſelf furniſh a more invoterate and malicious Inſinu<g ref="char:EOLhyphen"/>ation?</p>
+            <p>We remember the time, when ſome Men talk'd of <hi>Penſio<g ref="char:EOLhyphen"/>ners in Parliament;</hi> they obliged the World with <hi>a Liſt</hi> of thoſe who were reputed ſuch, and if I miſtake not, with the Name
+<pb n="7" facs="tcp:103986:8"/>
+               <hi>of him,</hi> who they ſaid, <hi>hired and paid-them.</hi>
+            </p>
+            <p>The <hi>Diſſenter</hi> now addreſſed to, for his own ſafety, ought to challeng this his <hi>new Suiter,</hi> for the Names of ſuch <hi>Miniſters</hi> as have made <hi>the bargain and ſale</hi> ſuggeſted, and methinks his <hi>Charity, and the warmth of his Affection,</hi> ſhould diſpoſe him to gratifie ſuch a modeſt and neceſſary Requeſt; if it be refuſed I muſt conclude my Friend <hi>ſo far gone in his Paſſion,</hi> that he has wholly loſt his Underſtanding, ſhould this <hi>Gentlemans Court<g ref="char:EOLhyphen"/>ſhip</hi> any longer <hi>impreſs, or influence him.</hi>
+            </p>
+            <p>Now our <hi>Author</hi> falls with down right Blows upon the <hi>Ad<g ref="char:EOLhyphen"/>dreſſers,</hi> and beſtows bitter <hi>Invectives</hi> upon them, and upon the <hi>Government</hi> to boot; that part of his <hi>Libel</hi> deſerves and probably will be reckoned for in <hi>Weſtminſter Hall,</hi> therefore I ſhall ſhun the danger of becoming his <hi>Acceſſary</hi> by tranſcribing him.</p>
+            <p>Then he betakes himſelf to <hi>Flattery,</hi> and tells you, that <hi>if you had to do with thoſe riged Prelates who made it a matter of Conſcience to give you the leaſt Indulgence, but kept you at an un<g ref="char:EOLhyphen"/>charitable diſtance, and even to your more reaſonable ſcruples continu<g ref="char:EOLhyphen"/>ed ſtiffe and inexorable, the argument might be fairer on your ſide.</hi>
+            </p>
+            <p>I conclude then, that <hi>your Argument</hi> to accept of <hi>Liberty</hi> from the King, is no way <hi>enervated:</hi> Is here any ſort of proof, that <hi>Prelacy</hi> has changed its thoughts, and put on tenderneſs to you; you may not truſt this <hi>undertaker</hi> in a thing ſo valuable as is that, now diſcuſſed, <hi>the Church of England</hi> cannot intend well, or uſe you ſo, <hi>(without incurring the guilt of Perjury as I have heard her ſay)</hi> till ſhe gives up her <hi>Laws of force,</hi> and you ſee that her <hi>Zeal</hi> to uphold them occaſions this <hi>great concuſſion in the Kingdom,</hi> whereſore, I doubt ſhe is not right; and your only ſure way of dealing with her, ſeems to me to be, to <hi>diſ<g ref="char:EOLhyphen"/>arm her</hi> by Act of <hi>Parliament,</hi> of every Weapon which the <hi>Goſpel</hi> did not put into her hand, then I'm ſure <hi>She</hi> can do no Miſchief.</p>
+            <p>Reverend Mr <hi>Baxter's</hi> expectation was raiſed about twenty
+<pb n="8" facs="tcp:103986:9"/>ſix years ſince, by the ſame pretence, as now yours is to be, but after the then <hi>Prelacy (which I am conſident the preſent will not diſown)</hi> had long <hi>triffled</hi> with him and his worthy <hi>Brethren, a<g ref="char:EOLhyphen"/>bout healing,</hi> in the <hi>Savoy Conferences;</hi> they found themſelves <hi>diſappointed and ſhamd:</hi> If the <hi>Church</hi> be as skilful in <hi>Chirurgery</hi> as our Author would perſwade, ſhe was the more to blame to hold the <hi>Patient</hi> ſo long in hand, as then ſhe did, and in fine to leave or make the <hi>Wound</hi> worſe then ſhe found it. <hi>(honeſty I do find it abſolutely neceſſary to a good Chirurgion)</hi> The ſame <hi>Spirit</hi> ſtill lives in our <hi>Church-Men,</hi> or it may in time to come re<g ref="char:EOLhyphen"/>turn again, and poſſeſs them; you have then no other way to <hi>conjure</hi> down the <hi>evil Spirit of Perſecution,</hi> but by a Repeal of the <hi>Penal Laws,</hi> that only can aſſure you, that <hi>a rigid Prelacy</hi> ſhall not hereafter <hi>deſtroy you;</hi> and you have reaſon to take the Alarum at your Woers next harangue, <hi>(Neſcit nox miſſa rever<g ref="char:EOLhyphen"/>ti) She or He</hi> (no matter which) <hi>has enchantment in her Face, and can inſtantly put your Noſe out of joynt with your new Friend, nay look you Dead;</hi> for you are told, that <hi>at this very hour and in the heat and glare of your preſent Sun-ſhine, the Church of Eng<g ref="char:EOLhyphen"/>land can in a moment bring Clouds again, and turn the royal Thun<g ref="char:EOLhyphen"/>der upon your Heads, blow you off the Stage with a breath; if ſhe would give but a ſmile or a kind word, the leaſt glimpſe of her com<g ref="char:EOLhyphen"/>pliance would throw you back into the ſtate of Suffering and draw upon you all the arrears of Severity which have accrued during the time of this kindneſs to you.</hi>
+            </p>
+            <p>This is in truth <hi>(my good Friend)</hi> plain dealing, look to your ſelf therefore, and make your peace with her, or you periſh <hi>(if you believe her)</hi> for <hi>Clonds, Thunder and Tempeſts</hi> await, (and <hi>as ſhe ſaith</hi>) are at her command; <hi>She</hi> can at pleaſure take you in<g ref="char:EOLhyphen"/>to her Power, add to your Yoke, and chaſtice you with <hi>Scor<g ref="char:EOLhyphen"/>pions,</hi> and that's not all; <hi>She</hi> can bring you to an <hi>After-Reckon<g ref="char:EOLhyphen"/>ing,</hi> laſh you for playing <hi>Truant,</hi> and exact what you have run <hi>in Arrear (this laſted ſcovery will undoubtedly porcure the Gentle<g ref="char:EOLhyphen"/>man an Addreſs of Thanks from</hi> Doctors Commons, <hi>for the City
+<pb n="9" facs="tcp:103986:9"/>Diſſenters are near two years Rent run, there</hi>) Nay, and to com<g ref="char:EOLhyphen"/>pleat your miſery <hi>(after all the Reckonings paid)</hi> She can by her Excommunication, throw you, <hi>with a quick hand</hi> to Satan.</p>
+            <p>You may demand, what ſhall <hi>poor I</hi> do in this my great Strait? <hi>Why,</hi> as you love your Life keep out of her <hi>Clutches, defy her,</hi> and attone our Engliſh <hi>Jupiter,</hi> That he may not entruſt his <hi>Thunderbolts</hi> in this mad Hand.</p>
+            <p>Be true, <hi>I beſeech you,</hi> to your Intereſt, and deport your ſelf ſo to the <hi>King,</hi> that your <hi>new conciliated Friendſhip,</hi> which ſhe uphraids, and envies, may not be endangered.</p>
+            <p>I ſhall now give you a Reaſon or two, why you may juſt<g ref="char:EOLhyphen"/>ly ſuſpect this <hi>Gentleman,</hi> now making Love to you in the Name of the <hi>Church.</hi> I find his Letter ſtuffed with <hi>malitious and falſe Inſinuations</hi> againſt diſſenting Miniſters (amongſt whom I never found a Knave) I will therefore hope that my telling <hi>you</hi> Truth, tho' to his Diſparagement, will not be taken as a Breach of the Rules of good Manners.</p>
+            <p>If the <hi>Church of England's Commiſſioners</hi> in the preſent Treaty with you, have been tampering with thoſe of the <hi>Roman Communion,</hi> and offering Terms for the Life of their dearly beloyed <hi>Penal Laws:</hi> If they, to come a little cloſer, have propoſed, That if the <hi>Roman Catholicks</hi> will not joyn with you, for the Repeal of thoſe <hi>Laws,</hi> they ſhall be ſecu<g ref="char:EOLhyphen"/>red againſt any imaginary Danger from the <hi>Teſt-Penalties,</hi> in a ſucceeding <hi>Reign,</hi> by a <hi>Mortgage</hi> of the <hi>Honours</hi> and <hi>Eſtates</hi> alſo, of ſom <hi>great Men</hi> driving that Bargain. I ſay, ſhould this be true, there's certainly Miſchief in her Heart, and ſhe will reveng your runing her into this <hi>Incumbrance,</hi> by <hi>teaching you</hi> hereafter, (as <hi>Gideon</hi> did the Men of <hi>Succoth</hi>) with <hi>Briers and Thorns.</hi>
+            </p>
+            <p>If <hi>She</hi> hath her <hi>Ambaſſadors at this very Hour,</hi> treating an <hi>Alliance</hi> with the <hi>Papiſts,</hi> and propoſing to yield them Liberty by <hi>Act of Parliament,</hi> with Exception of the <hi>Fanatick.</hi>
+            </p>
+            <p>If theſe, or any others, ſhould at this time, <hi>prate and buz
+<pb n="10" facs="tcp:103986:10"/>Fears and Jealouſies in your Ears,</hi> you are obliged to be deaf, upon pain of all the Miſchief they intend you. The Church feems to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the bloody <hi>Tyrant,</hi> and ſeeing her Power reduced, ſhe would be content for a time, to turn <hi>Pedagogue,</hi> and <hi>whip Boys,</hi> to keep her Hand in ure.</p>
+            <p>The Church <hi>Plenipotentiary,</hi> towards the cloſe of his Let<g ref="char:EOLhyphen"/>ter, <hi>points his Wrath</hi> towards the <hi>King and his Government;</hi> And with <hi>you,</hi> he ſeems to deſcend to <hi>calm</hi> (but very <hi>wickedly</hi> intended). <hi>Reaſoning. It is with Regret that he beholds you diſpoſed to quarrel the Church of</hi> England <hi>now ſhe is upon the Brink of Suffering: 'Tis very unkind, in you, for ſhe never per<g ref="char:EOLhyphen"/>ſecuted the Diſſenters, but by Direction, and as ſhe was ſet on:</hi> A bad Excuſe, you know, is better than none. The <hi>Gentle<g ref="char:EOLhyphen"/>man</hi> further inſinuates <hi>(and you are to believe him if you will)</hi> That the taking away the <hi>Penal Laws and Teſts (the Bane of Religion, and of Liberty)</hi> will put you under a Tyranny, and abſolutely deſtroy you. In truth <hi>(Sir)</hi> were I in the <hi>Eaſt In<g ref="char:EOLhyphen"/>dies,</hi> the ſight of this lamentable Complaint would greatly move me, for I ſhould doubt the Caſe of the <hi>Church of England</hi> to be very deplorable, but 'tis a great <hi>Bleſſing</hi> that all this is <hi>Miſrepreſentation,</hi> and <hi>ſoul Slander.</hi> The <hi>King</hi>'s Promiſe ſecures her of <hi>Peace and Plenty,</hi> and that <hi>Act of Parliament</hi> which ſhall ſecure you out of her <hi>Paws,</hi> may give her further <hi>Security</hi> if ſhe wants it. This her <hi>grim faced Repreſentative,</hi> ſeems to take his ſhort and angry <hi>Turns,</hi> like the <hi>Tower-Lyon,</hi> and ever and anon <hi>roares;</hi> but 'tis not want, but a ravenous. Appetite to <hi>rend and tear,</hi> that occaſions all this <hi>Wrath and Rage:</hi> Nature will be Nature. Therefore you may tell the Church in your Excuſe (for a reaſon of your Doings ought ſomething to appeaſe her toward you) in the language of the <hi>Lepers:</hi> (My <hi>Diſtreſs</hi> is great.) <hi>If I ſtill ſit here, I dye, if the</hi> Syrians <hi>ſave me alive, I ſhall live; if they kill me I ſhall but dye.</hi>
+            </p>
+            <p>To <hi>cokes</hi> and work you off, from getting <hi>Liberty of Con<g ref="char:EOLhyphen"/>ſcience,</hi>
+               <pb n="11" facs="tcp:103986:10"/>from the only Hand which can diſpenſe it: You are told that <hi>ſome of the Church of</hi> England <hi>were Trimmers for enduring you, and the Maxim was, It is impoſſible for a Diſ<g ref="char:EOLhyphen"/>ſenter, not to be a Rebel.</hi>
+            </p>
+            <p>This <hi>Gentleman</hi> certainly thinks that you have forgot, who gave thoſe <hi>moderate Men</hi> that Name of Reproach, therefore you may tell him, That to your Knowledg the <hi>Church</hi> eſteem<g ref="char:EOLhyphen"/>ed them but <hi>ſpurious Sons,</hi> and could not endure them, be<g ref="char:EOLhyphen"/>cauſe they gave you a good Look; you need not go to <hi>Glou<g ref="char:EOLhyphen"/>ceſter</hi> to make this out; but if you ſhould let me engage you to take <hi>Salisbury</hi> in your way, and enquire there how the Church treated a <hi>Proteſtant Reconciler.</hi> If you do ſo, pray uſe your Intereſt with her, and try whether in this <hi>height of her Careſſes, ſhe</hi> will demonſtrate the ſincerity of her Affection to you, by recomending it to that <hi>Doctor</hi> to <hi>recant</hi> his <hi>Recantation.</hi>
+            </p>
+            <p>As to the <hi>Maxim</hi> cited, <hi>It is impoſſible for a Diſſenter not to be a Rebel.</hi> I am certain it was delivered from a Pulpit, nearer to <hi>Ludgate</hi> then that of <hi>Limeſtreet.</hi>
+            </p>
+            <p>So much for the <hi>Gentleman's angry and whedling</hi> part; Now I bring you to his <hi>Politicks:</hi> and the <hi>Diſſenters</hi> are meer <hi>Fools,</hi> if they truſt not to his moſt wiſe <hi>Conduct,</hi> for he ſaith <hi>you</hi> (ſilly ſoul) <hi>act very unskilfully againſt your viſible Intereſt;</hi> this were to purpoſe indeed, if made out, but the Miſchief of it is, the powerful <hi>Argument of Intereſt</hi> turns againſt him; The <hi>Diſſen<g ref="char:EOLhyphen"/>ters Liberty</hi> may now be certainly <hi>eſtabliſhed,</hi> but, ſaith the <hi>Church,</hi> I ſee my <hi>halcyon days</hi> at hand, put on a little Patience, and then <hi>you and I will treat about the Matter.</hi> Were you in the Extremity of the <hi>Stone,</hi> and ſure of receiving preſent Eaſe, by an <hi>infalli<g ref="char:EOLhyphen"/>ble Chirurgion,</hi> your next <hi>Neighbour,</hi> who tells you his <hi>Price,</hi> and ever <hi>made good his Word;</hi> how would you entertain that <hi>Friend's Counſel,</hi> who ſhould ſay, let me adviſe you to wait a little, for I hear that <hi>Germans</hi> excell all others in this Caſe, and about Six Months hence I may bring you one from <hi>Vienna</hi> to try his <hi>Skill:</hi> But to be plain with you, when he comes, <hi>he
+<pb n="12" facs="tcp:103986:11"/>will leave you as he finds you,</hi> if you break with him for <hi>Terms;</hi> but I do think he will not be <hi>unreaſonable,</hi> for he hath a very good <hi>Character:</hi> I know you have an Anſwer at Hand, therefore (without leading you) I pray tranſmit it to this your Coun<g ref="char:EOLhyphen"/>ſellor.</p>
+            <p>A Word or two more, and I have done; He paſſes his Word, That <hi>the Church of</hi> England <hi>is convinced of its Error, in being Severe to you.</hi> I know not how this will paſs with you, but being too much a <hi>Stranger</hi> to this <hi>Author,</hi> and to the nature of his <hi>Commiſſion,</hi> I ſhould be glad to ſee <hi>her</hi> put out her own <hi>Declaration of Repentance;</hi> for ſhould this <hi>Perſon</hi> have <hi>Authority</hi> to ſpeak for her <hi>(tho of old, true Penitents ſpoke for themſelves) he</hi> doth it ſo <hi>ukwardly</hi> in this Paper; that, to be plain, I ſuſpect 'tis <hi>inſincere;</hi> for he <hi>contends,</hi> and that with the height of Paſſion, to uphold her <hi>Penal Laws,</hi> and I have no other Quarrel with her, but about <hi>Thunderbolts.</hi>
+            </p>
+            <p>He proceeds, <hi>The Parliament, when ever it meeteth, is ſure to be gentle to you:</hi> 'tis the firſt thing we agree in, and it grieves me that we could not hit upon it ſooner; <hi>I do</hi> hope and <hi>believe,</hi> he is at length in the right, but that I may not be cheated; if you find him in good humor, when you ſee him; let him know from me, <hi>(with my ſervice)</hi> that my <hi>ſuffrage</hi> ſhall never help <hi>him,</hi> or any of his <hi>Spirit</hi> and <hi>Principle</hi> into the Houſe of <hi>Commons;</hi> He admoniſhes you not to <hi>miſapply your anger,</hi> allow another Friend to exhort you, not to <hi>miſplace</hi> your <hi>Voice,</hi> when the King ſhall pleaſe to call a <hi>Parliament,</hi> and you will oblige your ſelf and me.</p>
+            <closer>
+               <date>
+                  <hi>Septemb.</hi> 10 1687.</date>
+               <signed>
+                  <hi>Adien,</hi> Yours Affectionately, <hi>T. W.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
